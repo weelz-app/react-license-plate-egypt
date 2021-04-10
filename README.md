@@ -13,7 +13,7 @@ import LicensePlate from 'react-license-plate-egypt'
 ```
 Which will display something like this
 
-![screen-shot](https://github.com/weelz-app/react-license-plate-egypt/blob/main/screens/sample_1.png?raw=true)
+![screen-shot](https://github.com/weelz-app/react-license-plate-egypt/blob/main/sample_1.png?raw=true)
 
 ### Props
 
