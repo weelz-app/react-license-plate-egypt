@@ -25,8 +25,8 @@ function LicensePlate ({
     border: `${width / 100}px solid`,
     borderBottom: `${width / 200}px solid`,
     width: '100%',
-    paddingTop: '2%',
-    paddingBottom: '15%',
+    paddingTop: '5%',
+    paddingBottom: '16%',
     paddingLeft: '5%',
     paddingRight: '5%',
     background: `${vehicle}`,
@@ -41,8 +41,8 @@ function LicensePlate ({
     width: '100%',
     paddingTop: '5%',
     paddingBottom: '25%',
-    paddingLeft: '1%',
-    paddingRight: '1%',
+    paddingLeft: '5%',
+    paddingRight: '5%',
     position: 'relative'
   }
 
