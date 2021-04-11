@@ -5,7 +5,7 @@ export const VehicleType = {
   TAXI: '#FFA343',
   TRUCK: '#FF5733',
   BUSS: '#C4C4C4',
-  TOURISIM: '#CBB58B',
+  TOURISM: '#CBB58B',
   DIPLOMATIC: '#60AC54',
   CUSTOMS: '#F7CC5E'
 }
